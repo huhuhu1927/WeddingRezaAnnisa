@@ -1,4 +1,1 @@
-# 💌 Template website undangan pernikahan sederhana
-
-![Thumbnail](/assets/images/banner.png)
-
+https://github.com/huhuhu1927/WeddingRezaAnnisa.github.io

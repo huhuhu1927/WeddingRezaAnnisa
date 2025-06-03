@@ -1,1 +1,1 @@
-https://github.com/huhuhu1927/WeddingRezaAnnisa.github.io
+https://WeddingRezaAnnisa.github.io/
